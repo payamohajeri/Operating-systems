@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1399784930 source:/home/user/Desktop/Lida/BasicShell/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+	<sys/wait.h>
+	<errno.h>
+	<string.h>
+
